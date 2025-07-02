@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "prod_name": "Cap",
+    "price": 70,
+    "description": "This is a large size cap in blue color.",
+    "img": "https://media.istockphoto.com/id/940447022/photo/blue-fabric-hat.jpg?s=1024x1024&w=is&k=20&c=zrtfpW3VLPQSk7mJKvTLJgPTGPj-SrCsJI2jS3VOWww="
+  },
+  {
+    "id": 2,
+    "prod_name": "T-Shirt",
+    "price": 70,
+    "description": "Comfortable cotton T-shirt for summer.",
+    "img": "https://cdn.pixabay.com/photo/2023/05/06/01/33/t-shirt-7973394_1280.jpg"
+  },
+  {
+    "id": 3,
+    "prod_name": "Sneakers",
+    "price": 70,
+    "description": "Stylish running sneakers for daily wear.",
+    "img": "https://cdn.pixabay.com/photo/2020/07/15/18/21/shoe-5408627_1280.png"
+  },
+  {
+    "id": 4,
+    "prod_name": "Backpack",
+    "price": 70,
+    "description": "Durable backpack for travel and work.",
+    "img": "https://cdn.pixabay.com/photo/2017/06/30/21/53/backpack-2459934_1280.png"
+  },
+  {
+    "id": 5,
+    "prod_name": "Watch",
+    "price": 70,
+    "description": "Modern digital wristwatch with LED display.",
+    "img": "https://cdn.pixabay.com/photo/2016/11/21/13/58/analog-watch-1845547_1280.jpg"
+  },
+  {
+    "id": 6,
+    "prod_name": "Sunglasses",
+    "price": 70,
+    "description": "UV-protected stylish sunglasses.",
+    "img": "https://cdn.pixabay.com/photo/2017/07/13/14/05/wood-sunglasses-2500488_1280.jpg"
+  },
+  {
+    "id": 7,
+    "prod_name": "Jacket",
+    "price": 70,
+    "description": "Windproof and waterproof winter jacket.",
+    "img": "https://cdn.pixabay.com/photo/2017/10/06/04/32/jacket-2821961_1280.jpg"
+  },
+  {
+    "id": 8,
+    "prod_name": "Wallet",
+    "price": 70,
+    "description": "Genuine leather wallet with multiple slots.",
+    "img": "https://cdn.pixabay.com/photo/2021/05/04/06/34/kaizen-wallet-6227840_1280.jpg"
+  },
+  {
+    "id": 9,
+    "prod_name": "Headphones",
+    "price": 70,
+    "description": "Wireless over-ear noise-cancelling headphones.",
+    "img": "https://cdn.pixabay.com/photo/2019/05/12/18/16/headphone-4198624_1280.jpg"
+  },
+  {
+    "id": 10,
+    "prod_name": "Water Bottle",
+    "price": 70,
+    "description": "Stainless steel thermal water bottle.",
+    "img": "https://cdn.pixabay.com/photo/2015/08/21/00/18/water-bottle-898332_1280.jpg"
+  }
+]
